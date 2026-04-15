@@ -1,4 +1,4 @@
-# xDataBoard
+# xDashboard
 
 This software is a community distribution rebuilt and modified from the open-source code of Serial Studio.
 This software is not an official Serial Studio binary and is neither affiliated with nor endorsed or supported by the official Serial Studio project or its author.
@@ -43,7 +43,7 @@ For the licensing terms and restrictions of the official Serial Studio project, 
 - LICENSES/GPL-3.0-only.txt
 - LICENSES/LicenseRef-SerialStudio-Commercial.txt
 
-Distribution name: xDataBoard
+Distribution name: xDashboard
 Distributor: x-tools-author (x-tools@outlook.com)
 
 ---
@@ -91,5 +91,5 @@ Serial Studio 官方项目许可与限制，请参见其上游仓库中的以下
 - LICENSES/GPL-3.0-only.txt
 - LICENSES/LicenseRef-SerialStudio-Commercial.txt
 
-发行版名称：xDataBoard
+发行版名称：xDashboard
 发行方：x-tools-author(x-tools@outlook.com)
