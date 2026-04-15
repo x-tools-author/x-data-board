@@ -8,5 +8,9 @@
 **Alex Spataru** (<https://github.com/alex-spataru>)  
 **All rights reserved where applicable.**
 
+**The license of xDashboard **
+
+## About xDashboard
+
 A custom data board manager base on [SerialStudio](https://github.com/Serial-Studio/Serial-Studio).
 
